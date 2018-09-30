@@ -12,3 +12,12 @@ IRkernel::installspec(name = 'ir32', displayname = 'R 3.2')
 
 
 jupyter console --kernel=ir
+
+
+----
+
+분류 : 분류모형, 의사결정 나무, 성과분석과 스코어링, 앙상블 방법론
+분류/예측 : 인공신경망, 예측모형
+군집분석 : 군집분석, 계층적 군집분석, 비계층적 군집분석
+연관분석 : 연관성 규칙, 연관분석 활용, Apriori
+
