@@ -1,0 +1,62 @@
+
+
+Part1: Exploratory Data Analysis : EDA
+	1-1. How many Survived?
+	1-2. Type of Features
+		1-2-1. Categorical feature
+		1-2-2. Ordinal Feature
+		1-2-3. Continuous Feature
+		1-2-4. Meanless Example
+	1-3. Analysising The Features
+		1-3-1. Sex : Categorical feature
+		1-3-2. Pclass : Ordinal feature
+		1-3-3. Age : Continuous feature
+		1-3-4. Filling NaN Ages
+		1-3-5. Embarked : Categorical feature
+		1-3-6. Fill Embarked NaN
+		1-3-7. SibSp : Discrete Feature
+		1-3-8. Parch
+		1-3-9. Fare : Continuous feature
+	1-4. Observation in Nutshell for feature
+	1-5. Correlation Between The Features
+---
+Part2: Feature Engineering and Data Cleaning	
+	2-1. Age_band
+	2-2. Family_Size and Alone
+	2-3. Fare_Range
+	2-4. Converting String value into Numeric
+	2-5. Dropping UnNeed Features
+---
+Part3: Predictive Modeling
+	3-1. Import ML packages
+	
+	
+	
+	
+	
+----
+
+
+
+Part0. Contents
+Part1: Exploratory Data Analysis(EDA)
+
+Analysis of the features.
+Finding any relations or trends considering multiple features.
+
+Part2: Feature Engineering and Data Cleaning
+
+Adding any few features.
+Removing redundant features.
+Converting features into suitable form for modeling.
+
+Part3: Predictive Modeling
+
+Running Basic Algorithms.
+Cross Validation.
+Ensembling.
+Important Features Extraction.
+		
+		
+		
+	
