@@ -33,7 +33,8 @@ Part3: Predictive Modeling
 	3-3. Linear Support Vector
 	3-4. Logistic Regression
 	3-5. Decision Tree
-	
+  3-6. K-Kearest Neighbors(KNN)
+
 	
 	
 	
