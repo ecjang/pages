@@ -34,9 +34,10 @@ Part3: Predictive Modeling
 	3-4. Logistic Regression
 	3-5. Decision Tree
   3-6. K-Kearest Neighbors(KNN)
-
-	
-	
+  3-7. Gaussian naive Bayes
+  3-8. Random Forest
+  3-9. Cross Validation
+  3-10. Confution Matrix	
 	
 	
 ----
