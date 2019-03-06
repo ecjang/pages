@@ -1,0 +1,64 @@
+LOCUS       MG522909                 836 bp    DNA     linear   PLN 11-DEC-2018
+DEFINITION  Paphiopedilum niveum voucher UPM-MCR 021 maturase K (matK) gene,
+            partial cds; chloroplast.
+ACCESSION   MG522909
+VERSION     MG522909.1
+KEYWORDS    .
+SOURCE      chloroplast Paphiopedilum niveum
+  ORGANISM  Paphiopedilum niveum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 836)
+  AUTHORS   Rajaram,M.C., Yong,C.S.Y., Gansau,J.A. and Go,R.
+  TITLE     DNA Barcoding of Endangered Paphiopedilum (Slipper Orchids) of
+            Peninsular Malaysia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 836)
+  AUTHORS   Rajaram,M.C., Yong,C.S.Y., Gansau,J.A. and Go,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2017) Department of Biology, Faculty of Science,
+            Universiti Putra Malaysia, UPM Serdang, Serdang, Selangor 43400,
+            Malaysia
+FEATURES             Location/Qualifiers
+     source          1..836
+                     /organism="Paphiopedilum niveum"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UPM-MCR 021"
+                     /db_xref="BOLD:PPM009-17.matK"
+                     /db_xref="taxon:53104"
+                     /country="Malaysia: Kedah, Langkawi Island"
+                     /PCR_primers="fwd_seq: atccatatggaaatcttggttc, rev_seq:
+                     gttctagcacacgaaagtcg"
+     gene            <1..>836
+                     /gene="matK"
+     CDS             <1..>836
+                     /gene="matK"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="maturase K"
+                     /protein_id="AZJ16600.1"
+                     /translation="QVLQCWIKDVPSLHLLRFLFHEYHNLNSLVTSKKFIYAFSKRKK
+                     KFLWFLYNSYVYECEYLFLFIRKQSSYLRSTSSGVFLERTHFYVKIEHLIVVCCNSFQ
+                     KILCFLKDTFMHYVRYQGKAILASKGTLILMNKWKFHLVNFWQSYFHFWAQPYRIHIK
+                     QLSNYYFSFLGYFSSVLENHLVVRNKMLENSFIINIMTHKLYTIVPVMSLIGSLSKAK
+                     FCTVLGHPISKPIWTDLSDSDIIDRFCRICRNLCRYHSGSSKKQVLYRIKYILRLSGA
+                     RT"
+ORIGIN      
+        1 tcaagtactt caatgctgga tcaaggatgt tccttctttg catttattgc gatttctttt
+       61 ccacgaatat cataatttga atagtctcgt tacttcaaag aaattcattt acgccttttc
+      121 aaaaagaaag aaaaaattcc tttggttcct atataattct tatgtatatg aatgcgaata
+      181 tttattcctt tttattcgta aacagtcttc ttatttacga tcaacatcct ctggagtctt
+      241 tcttgagcga acacatttct atgtaaaaat agagcatctt atagtagtgt gttgtaattc
+      301 ttttcagaag atcctatgct ttctcaagga tactttcatg cattatgttc gatatcaagg
+      361 aaaggcaatt ctggcttcaa agggaactct tattctgatg aataaatgga aatttcatct
+      421 tgtgaatttt tggcaatctt attttcactt ttgggctcaa ccgtatagga tccatataaa
+      481 gcaattatcc aactattact tctcttttct gggatatttt tcaagtgtac tagaaaatca
+      541 tttggtagta agaaataaaa tgctagagaa ttcatttata ataaatatta tgactcataa
+      601 attatatacc atagtcccag tcatgtctct tattggatca ttgtcgaaag ctaaattttg
+      661 tactgtattg ggtcatccta ttagtaaacc gatctggacc gatttatcgg attctgatat
+      721 tattgatcga ttttgccgga tatgtagaaa tctttgtcgt tatcacagtg gatcctcaaa
+      781 aaaacaggtt ttgtatcgta taaagtatat acttcgactt tctggggcta gaacaa
+//
+
