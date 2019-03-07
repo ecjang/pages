@@ -6,9 +6,13 @@ Introduction
 	1-1. Loading packages
 	1-2. Loading data
 	1-3. Data at first sight
-	
+	1-4. Meatadata
 	
 2.Defining the metadata
+	2-1. Interval variables
+	2-2. Ordinal variables
+	2-3. Binary variables
+
 3.Descriptive statistics
 4.Handling imbalanced classes
 5.Data quality checks
