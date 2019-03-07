@@ -12,6 +12,7 @@ Introduction
 	2-1. Interval variables
 	2-2. Ordinal variables
 	2-3. Binary variables
+	2-4. Handling imbalanced classes
 
 3.Descriptive statistics
 4.Handling imbalanced classes
