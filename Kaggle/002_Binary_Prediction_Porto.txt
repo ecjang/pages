@@ -9,15 +9,34 @@ Introduction
 	1-4. Meatadata
 	
 2.Defining the metadata
-	2-1. Interval variables
-	2-2. Ordinal variables
-	2-3. Binary variables
-	2-4. Handling imbalanced classes
 
 3.Descriptive statistics
+	3-1. Interval variables
+	3-2. Ordinal variables
+	3-3. Binary variables
+
 4.Handling imbalanced classes
+
 5.Data quality checks
+	5-1. Checking missing values
+	5-2. Checking the cardinality of the categorical variables
+
 6.Exploratory Data visualization
+	6-1. Categorical variables 
+	6-2. Interval variables
 7.Feature engineering
 8.Feature selection
 9.Feature scaling
+
+
+-----
+
+1. [Visual inspect of your data](#visual_inspection)
+2. [Defining the metadata](#metadata)
+3. [Descriptive statistics](#descriptive_stats)
+4. [Handling imbalanced classes](#imbalance_data)
+5. [Data quality checks](#data_quality)
+6. [Exploratory Data visualization](#eda)
+7. [Feature engineering](#feat_engineering)
+8. [Feature selection](#feat_selection)
+9. [Feature scaling](#feat_scaling)
