@@ -24,7 +24,11 @@ Introduction
 6.Exploratory Data visualization
 	6-1. Categorical variables 
 	6-2. Interval variables
+  6-3. Cheaking the correlations betwwen ordinal variables
+
 7.Feature engineering
+  7-1. Creating dummy variables
+  
 8.Feature selection
 9.Feature scaling
 
