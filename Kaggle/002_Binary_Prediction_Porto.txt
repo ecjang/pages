@@ -30,6 +30,8 @@ Introduction
   7-1. Creating dummy variables
   
 8.Feature selection
+  8-1. Removing features with low or zero variance
+
 9.Feature scaling
 
 
