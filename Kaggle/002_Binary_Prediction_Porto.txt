@@ -31,8 +31,10 @@ Introduction
   
 8.Feature selection
   8-1. Removing features with low or zero variance
+  8-2. Selecting deatures with a Random Forest and SelectFromModel
 
 9.Feature scaling
+
 
 
 -----
